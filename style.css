@@ -1,0 +1,756 @@
+.symbol{
+    font-weight: bold;
+    transition: 0.3s ease;
+
+}
+.symbol:hover{
+    font-size: 20px;
+}
+
+title{
+    font-size: 16px;
+    display: block;
+}
+
+
+.A1{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 470px;
+    position: absolute;
+    top: 100px;
+    left: 40px;
+}
+
+.A1 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid lightseagreen;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.A1 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: lightseagreen;
+    z-index: 1;
+    color: white;
+
+}
+.A8{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 470px;
+    position: absolute;
+    top: 100px;
+    left: 1434px;
+}
+
+.A8 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid green;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+.A8 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: green;
+    z-index: 1;
+    color: white;
+
+}
+
+
+
+
+.A2 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: crimson;
+    z-index: 1;
+    color: white;
+}
+
+.A2{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 400px;
+    top: 170px;
+    left: 122px;
+    position: absolute;
+}
+.A2 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 20%;
+    transition: 0.3s;}
+.A3 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: crimson;
+    z-index: 1;
+    color: white;
+}
+
+.A3{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 400px;
+    top: 170px;
+    left: 1024px;
+    position: absolute;
+}
+.A3 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 20%;
+    transition: 0.3s;}
+
+.A4 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: crimson;
+    z-index: 1;
+    color: white;
+}
+
+.A4{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 400px;
+    top: 170px;
+    left: 1106px;
+    position: absolute;
+}
+.A4 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 20%;
+    transition: 0.3s;}
+.A5 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: crimson;
+    z-index: 1;
+    color: white;
+}
+
+.A5{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 400px;
+    top: 170px;
+    left: 1188px;
+    position: absolute;
+}
+.A5 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 20%;
+    transition: 0.3s;}
+.A6 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: crimson;
+    z-index: 1;
+    color: white;
+}
+
+.A6{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 400px;
+    top: 170px;
+    left: 1270px;
+    position: absolute;
+}
+.A6 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 20%;
+    transition: 0.3s;
+
+
+}
+.A7 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: crimson;
+    z-index: 1;
+    color: white;
+}
+
+.A7{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 400px;
+    top: 170px;
+    left: 1352px;
+    position: absolute;
+}
+.A7 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 20%;
+    transition: 0.3s;
+
+
+}
+.B3{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 266px;
+    top: 304px;
+    left: 204px;
+    position: absolute;
+}
+.B3 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid purple;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.B3 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    z-index: 1;
+}
+.B4{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 266px;
+    top: 304px;
+    left: 286px;
+    position: absolute;
+}
+.B4 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid purple;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.B4 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    z-index: 1;
+}
+.B5{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 266px;
+    top: 304px;
+    left: 368px;
+    position: absolute;
+}
+.B5 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid purple;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.B5 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    z-index: 1;
+}
+.B6{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 266px;
+    top: 304px;
+    left: 450px;
+    position: absolute;
+}
+.B6 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid purple;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.B6 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    z-index: 1;
+}
+.B7{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 266px;
+    top: 304px;
+    left: 532px;
+    position: absolute;
+}
+.B7 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid purple;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.B7 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    z-index: 1;
+}
+.B8{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 266px;
+    top: 304px;
+    left: 614px;
+    position: absolute;
+}
+.B8 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid purple;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.B8 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    z-index: 1;
+}
+.B9{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 266px;
+    top: 304px;
+    left: 696px;
+    position: absolute;
+}
+.B9 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid purple;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.B9 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    z-index: 1;
+}
+.B10{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 266px;
+    top: 304px;
+    left: 778px;
+    position: absolute;
+}
+.B10 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid purple;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.B10 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    z-index: 1;
+}
+.B1{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 266px;
+    top: 304px;
+    left: 860px;
+    position: absolute;
+}
+.B1 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid purple;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.B1 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    z-index: 1;
+}
+.B2{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 266px;
+    top: 304px;
+    left: 942px;
+    position: absolute;
+}
+.B2 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid purple;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+.B2 div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    z-index: 1;
+}
+.La{
+    border: 2px solid rgb(20, 20, 70) !important;
+}
+.La:hover{
+    background-color:  rgb(20, 20, 70) !important;
+}
+
+
+.Lanthanids div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: green;
+    z-index: 1;
+    color: white;
+
+}
+.Actanides{
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    justify-content: space-between;
+    width: 1100px;
+    position: absolute;
+    top: 600px;
+    left: 368px;
+}
+.Actanides div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid green;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+.Actanides div:hover{
+    scale: 1.1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: green;
+    z-index: 1;
+    color: white;
+
+}
+.Lanthanids{
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    justify-content: space-between;
+    width: 1100px;
+    position: absolute;
+    top: 666px;
+    left: 368px;
+}
+.Lanthanids div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid green;
+    border-radius: 20%;
+    transition: 0.3s;
+}
+
+
+.Periodic{
+    border: 10px double chocolate;
+    width: 500px;
+    font-size: 60px;
+    height: 100px;
+    color: blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 450px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.mainkey{
+    border: 5px double chocolate;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 200px;
+    height: 100px;
+    color: blue;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-left: 599px;
+    margin-right: auto;
+    margin-top: 14px;
+    border-radius:20px;
+    color: black;
+}
+
+.mainkey title{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.indicat{
+    position: absolute;
+    left: 25px;
+    top: -45px;
+}
+.indicat .box {
+    border: 2.5px solid black;
+    position: absolute;
+    left: 626px;
+    top: 336px;
+    width: 169px;
+    height: 11px;
+    border-bottom: hidden;
+    border-radius: 2px;
+}
+.indicat .B8{
+    position: absolute;
+    top: 293px;
+    left: 696px;
+}
+.indicat .LA{
+    position: absolute;
+    left: -157.9px;
+    top: 42px;
+}
